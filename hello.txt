@@ -1,5 +1,7 @@
 
+<<<<<<< HEAD
 hello atguigu!master 
+hello atguigu!hot-fix 
 hello atguigu! hello git!
 
 
